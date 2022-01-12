@@ -48,10 +48,10 @@ RSpec.describe User, type: :model do
     end
 
     it 'should not save if the password is less than 8 characters' do
-      @user = User.new(first_name: 'Yuti', last_name: 'Reswick', email: 'yuti@test.com', password: '123', password_confirmation: '123')
+      @user = User.new(first_name: 'Darren', last_name: 'Brown', email: 'yuti@test.com', password: '123', password_confirmation: '123')
 
       expect(@user).not_to be_valid
     end
-    
+
   end  
 end
