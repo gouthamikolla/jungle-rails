@@ -1,6 +1,7 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce app where we can  place an order with or without login in.
 
 ## Additional Steps for Apple M1 Machines
 
@@ -25,6 +26,17 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
+
+## Final Product
+
+!["screenshot of soldout badge"]()
+
+!["screenshot of added new category"]()
+
+!["screenshot of SignUp page"]()
+
+!["screenshot of Order page"]()
+
 
 ## Dependencies
 
