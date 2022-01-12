@@ -29,13 +29,13 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
-!["screenshot of soldout badge"]()
+!["screenshot of soldout badge"](https://github.com/gouthamikolla/jungle-rails/blob/master/docs/SoldOut%20Badge.png)
 
-!["screenshot of added new category"]()
+!["screenshot of added new category"](https://github.com/gouthamikolla/jungle-rails/blob/master/docs/Added_New_Category.png)
 
-!["screenshot of SignUp page"]()
+!["screenshot of SignUp page"](https://github.com/gouthamikolla/jungle-rails/blob/master/docs/SignUp_page.png)
 
-!["screenshot of Order page"]()
+!["screenshot of Order page"](https://github.com/gouthamikolla/jungle-rails/blob/master/docs/Order_page.png)
 
 
 ## Dependencies
